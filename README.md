@@ -6,7 +6,7 @@ Kết nối lại sau khi đạt 4,2 MB (mặc định) để cải thiện tố
 
 #####Cài đặt như sau:
 B1" mở Termux (link tải https://f-droid.org/packages/com.termux/ ) chạy lệnh sau:
-pkg install git && git clone https://github.com/Vankimfc0/vss.git && clear && cd vss && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cd
+"pkg install git && git clone https://github.com/Vankimfc0/vss.git && clear && cd vss && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cd"
 ***
 B2 mở app SocksDroid (link tải https://play.google.com/store/apps/details?id=net.typeblog.socks&pcampaignid=web_share )kéo xuống dưới cùng tích vào 2 ô per-app proxy và bypass mode ,dòng app list nhập là com.termux
 
